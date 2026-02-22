@@ -9,6 +9,10 @@ Este é um projeto de exemplo que demonstra como treinar e usar um modelo de red
 
 ## Instalação
 
+Caminho feliz para ambiente windows:
+
+Use WSL, nvm, node 22 🐧✨
+
 Para instalar as dependências do projeto, execute o seguinte comando:
 
 ```bash
